@@ -1,4 +1,4 @@
-### Hello! I'm Reinexxx:wave:
+### Hello! I'm Reinex-jp:wave:
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reinexxx&layout=compact&theme=panda" />
